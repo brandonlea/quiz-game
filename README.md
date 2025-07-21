@@ -11,6 +11,7 @@ Test your knowledge by taking different quizes, you can choose different and cho
   - [User Goals](#user-goals)
   - [User Stories](#user-stories)
   - [Website Goals and Objectives](#website-goals-and-objectives)
+  - [Target Audience](#target-audience)
 
 ## Main Purpose
 
@@ -51,5 +52,13 @@ Test your knowledge by taking different quizes, you can choose different and cho
 - Making it easy to navigate around the website.
 - Making sure everyone can access it with people have needs.
 - Attracting people from all over the world to play the game.
+
+[Back to the Top](#contents)
+
+## Target Audience
+
+- People who like to play quizes.
+- Casual players.
+- Students who wants to learn something new.
 
 [Back to the Top](#contents)
