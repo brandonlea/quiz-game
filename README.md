@@ -16,6 +16,7 @@ Test your knowledge by taking different quizes, you can choose different and cho
 
 - [Wireframes](#wireframes)
 - [Design](#design)
+- [Typography](#typography)
 
 ## Main Purpose
 
@@ -82,5 +83,11 @@ Wireframes was designed by using Balsamiq Wireframes, I followed best practice b
 ## Design
 
 I have chosen this design because it makes it modern and fits well to a quiz game.
+
+[Back to the Top](#contents)
+
+## Typography
+
+The font family I have choosen is [Lato](https://fonts.google.com/specimen/Lato, "Lato") because it makes it feel modern while matching the theme.
 
 [Back to the Top](#contents)
