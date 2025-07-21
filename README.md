@@ -18,3 +18,13 @@ Test your knowledge by taking different quizes, you can choose different and cho
 - Make sure each section is correct.
 - User accessibility needs.
 - Clear infomation written in English.
+
+## User Stories
+
+- As a user, I want to understand how to play.
+- As a user, I want to able to read all infomation about the game.
+- As a user, I want to choose from easy, medium to hard.
+- As a user, I want to choose categories.
+- As a user, I want to learn something new.
+- As a user, I want the content to be accessible with anyone with needs.
+- As a user, I want it see it working on all devices.
