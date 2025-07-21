@@ -88,6 +88,6 @@ I have chosen this design because it makes it modern and fits well to a quiz gam
 
 ## Typography
 
-The font family I have choosen is [Lato](https://fonts.google.com/specimen/Lato, "Lato") because it makes it feel modern while matching the theme.
+The font family I have choosen is [Lato](https://fonts.google.com/specimen/Lato "Lato") because it makes it feel modern while matching the theme.
 
 [Back to the Top](#contents)
