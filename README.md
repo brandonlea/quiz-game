@@ -7,11 +7,14 @@ Test your knowledge by taking different quizes, you can choose different and cho
 ## Contents
 
 - [Rationale](#contents)
+
   - [Main Purpose](#main-purpose)
   - [User Goals](#user-goals)
   - [User Stories](#user-stories)
   - [Website Goals and Objectives](#website-goals-and-objectives)
   - [Target Audience](#target-audience)
+
+- [Wireframes](#wireframes)
 
 ## Main Purpose
 
@@ -60,5 +63,17 @@ Test your knowledge by taking different quizes, you can choose different and cho
 - People who like to play quizes.
 - Casual players.
 - Students who wants to learn something new.
+
+[Back to the Top](#contents)
+
+## Wireframes
+
+Wireframes was designed by using Balsamiq Wireframes, I followed best practice by doing Mobile version first then Tablet then follow with Desktop.
+
+[Mobile Wireframe](assets/images/wireframes/Mobile.png "Mobile Wireframe")
+
+[Tablet Wireframe](assets/images/wireframes/Tablet.png "Tablet Wireframe")
+
+[Desktop Wireframe](assets/images/wireframes/Desktop.png "Desktop Wireframe")
 
 [Back to the Top](#contents)
