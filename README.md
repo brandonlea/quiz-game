@@ -10,6 +10,7 @@ Test your knowledge by taking different quizes, you can choose different and cho
   - [Main Purpose](#main-purpose)
   - [User Goals](#user-goals)
   - [User Stories](#user-stories)
+  - [Website Goals and Objectives](#website-goals-and-objectives)
 
 ## Main Purpose
 
@@ -39,5 +40,16 @@ Test your knowledge by taking different quizes, you can choose different and cho
 - As a user, I want to learn something new.
 - As a user, I want the content to be accessible with anyone with needs.
 - As a user, I want it see it working on all devices.
+
+[Back to the Top](#contents)
+
+## Website Goals and Objectives
+
+- Make it fun to play.
+- Adding different categories to it.
+- Allowing users to choose difficulty.
+- Making it easy to navigate around the website.
+- Making sure everyone can access it with people have needs.
+- Attracting people from all over the world to play the game.
 
 [Back to the Top](#contents)
