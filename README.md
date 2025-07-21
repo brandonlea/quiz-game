@@ -17,6 +17,7 @@ Test your knowledge by taking different quizes, you can choose different and cho
 - [Wireframes](#wireframes)
 - [Design](#design)
 - [Typography](#typography)
+- [Colors](#colors)
 
 ## Main Purpose
 
