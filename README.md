@@ -15,6 +15,7 @@ Test your knowledge by taking different quizes, you can choose different and cho
   - [Target Audience](#target-audience)
 
 - [Wireframes](#wireframes)
+- [Design](#design)
 
 ## Main Purpose
 
@@ -75,5 +76,11 @@ Wireframes was designed by using Balsamiq Wireframes, I followed best practice b
 [Tablet Wireframe](assets/images/wireframes/Tablet.png "Tablet Wireframe")
 
 [Desktop Wireframe](assets/images/wireframes/Desktop.png "Desktop Wireframe")
+
+[Back to the Top](#contents)
+
+## Design
+
+I have chosen this design because it makes it modern and fits well to a quiz game.
 
 [Back to the Top](#contents)
