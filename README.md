@@ -6,7 +6,7 @@ Test your knowledge by taking different quizes, you can choose different and cho
 
 ## Contents
 
-- [Rationale](#contents)
+- [Rationale](#rationale)
 
   - [Main Purpose](#main-purpose)
   - [User Goals](#user-goals)
@@ -14,10 +14,15 @@ Test your knowledge by taking different quizes, you can choose different and cho
   - [Website Goals and Objectives](#website-goals-and-objectives)
   - [Target Audience](#target-audience)
 
-- [Wireframes](#wireframes)
-- [Design](#design)
-- [Typography](#typography)
-- [Colors](#colors)
+- [Designs](#design)
+  - [Wireframes](#wireframes)
+  - [Design](#design)
+  - [Typography](#typography)
+  - [Colors](#colors)
+
+# Rationale
+
+I wanted to create this application so people can test there knowladge while having fun and learning.
 
 ## Main Purpose
 
@@ -68,6 +73,12 @@ Test your knowledge by taking different quizes, you can choose different and cho
 - Students who wants to learn something new.
 
 [Back to the Top](#contents)
+
+# Design
+
+Showing all the designs for the website.
+
+---
 
 ## Wireframes
 
