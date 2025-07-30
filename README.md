@@ -19,6 +19,8 @@ Test your knowledge by taking different quizes, you can choose different and cho
   - [Design](#design)
   - [Typography](#typography)
   - [Colors](#colors)
+- [Technologies Used](#technologies-used)
+  - [Languages](#languages)
 
 # Rationale
 
@@ -78,8 +80,6 @@ I wanted to create this application so people can test there knowladge while hav
 
 Showing all the designs for the website.
 
----
-
 ## Wireframes
 
 Wireframes was designed by using Balsamiq Wireframes, I followed best practice by doing Mobile version first then Tablet then follow with Desktop.
@@ -109,3 +109,13 @@ The font family I have choosen is [Lato](https://fonts.google.com/specimen/Lato 
 ![Coolors Scheme](docs/colors/colors.png)
 
 [Back to the Top](#contents)
+
+# Technologies Used
+
+Shows all Languages, Libraries and tools used within this project.
+
+## Languages
+
+- HTML
+- CSS
+- JavaScript
