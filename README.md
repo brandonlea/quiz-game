@@ -84,11 +84,11 @@ Showing all the designs for the website.
 
 Wireframes was designed by using Balsamiq Wireframes, I followed best practice by doing Mobile version first then Tablet then follow with Desktop.
 
-[Mobile Wireframe](assets/images/wireframes/Mobile.png "Mobile Wireframe")
+[Mobile Wireframe](docs/wireframes/Mobile.png "Mobile Wireframe")
 
-[Tablet Wireframe](assets/images/wireframes/Tablet.png "Tablet Wireframe")
+[Tablet Wireframe](docs/wireframes/Tablet.png "Tablet Wireframe")
 
-[Desktop Wireframe](assets/images/wireframes/Desktop.png "Desktop Wireframe")
+[Desktop Wireframe](docs/wireframes/Desktop.png "Desktop Wireframe")
 
 [Back to the Top](#contents)
 
@@ -106,6 +106,6 @@ The font family I have choosen is [Lato](https://fonts.google.com/specimen/Lato 
 
 ## Colors
 
-![Coolors Scheme](assets/images/colors/colors.png)
+![Coolors Scheme](docs/colors/colors.png)
 
 [Back to the Top](#contents)
