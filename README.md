@@ -22,6 +22,7 @@ Test your knowledge by taking different quizes, you can choose different and cho
 - [Technologies Used](#technologies-used)
   - [Languages](#languages)
   - [Libraries](#libraries)
+  - [Tools](#tools)
 
 # Rationale
 
@@ -121,7 +122,24 @@ Shows all Languages, Libraries and tools used within this project.
 - CSS
 - JavaScript
 
+[Back to the Top](#contents)
+
 ## Libraries
 
 - [Google Fonts](https://fonts.google.com/)
 - [FontAwesome](https://fontawesome.com/)
+
+[Back to the Top](#contents)
+
+## Tools
+
+- [Github](https://github.com)
+- [Balsamiq](https://balsamiq.com/)
+- [CDNJS](https://cdnjs.com/)
+- [Am I Responsive](https://ui.dev/amiresponsive)
+- [WAVE Accessibility Tool](https://wave.webaim.org/)
+- [LightHouse](https://developer.chrome.com/docs/lighthouse/overview)
+- [W3C HTML Validation Service](https://validator.w3.org/)
+- [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/)
+
+[Back to the Top](#contents)
