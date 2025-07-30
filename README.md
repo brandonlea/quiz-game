@@ -21,6 +21,7 @@ Test your knowledge by taking different quizes, you can choose different and cho
   - [Colors](#colors)
 - [Technologies Used](#technologies-used)
   - [Languages](#languages)
+  - [Libraries](#libraries)
 
 # Rationale
 
@@ -119,3 +120,8 @@ Shows all Languages, Libraries and tools used within this project.
 - HTML
 - CSS
 - JavaScript
+
+## Libraries
+
+- [Google Fonts](https://fonts.google.com/)
+- [FontAwesome](https://fontawesome.com/)
