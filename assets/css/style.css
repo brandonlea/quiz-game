@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap');
+
+:root {
+    --primary-color: #03045E;        /* Deep navy */
+    --secondary-color: #CAF0F8;     /* Light aqua */
+    --accent-color: #00B4D8;        /* Bright cyan */
+    --mid-primary: #0077B6;         /* Rich blue */
+    --soft-accent: #90E0EF;         /* Soft aqua */
+    --white: #ffffff;
+    --black: #000000;
+}
+
+/* Reset */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+    scroll-padding-top: 2rem;
+    font-size: 10px;
+}
+
+body {
+    background-color: var(--secondary-color);
+    color: var(--primary-color);
+    font-family: 'Lato' sans-serif;
+    font-size: 1.6rem;
+}
+
+/* Utility Classes */
+
+.flex-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Text Classes */
+
+.text-title {
+    font-size: 2rem;
+}
+
+.text-paragraph {
+    font-size: 1.5rem;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.font-bold {
+    font-weight: 700;
+}
