@@ -250,6 +250,91 @@ body {
     box-shadow: 0 6px 20px rgba(0, 180, 216, 0.4);
 }
 
+/* Quiz Rules */
+.quiz-rules {
+    background: var(--white);
+    margin: 4rem auto;
+    width: 95%;
+    padding: 4rem 2rem;
+    border-radius: 2rem;
+    box-shadow: 0 1rem 3rem rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+.quiz-rules h2 {
+    color: var(--primary-color);
+    font-size: 2.8rem;
+    margin-bottom: 3rem;
+    font-weight: 700;
+    position: relative;
+}
+
+.quiz-rules h2::after {
+    content: '';
+    position: absolute;
+    bottom: -1rem;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 6rem;
+    height: 0.3rem;
+    background: linear-gradient(90deg, var(--accent-color), var(--mid-primary));
+    border-radius: 0.2rem;
+}
+
+.rules-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 2.5rem;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.rule-card {
+    background: linear-gradient(135deg, var(--secondary-color), var(--soft-accent));
+    padding: 2.5rem 2rem;
+    border-radius: 1.5rem;
+    text-align: center;
+    transition: all 0.3s ease;
+    border: 2px solid transparent;
+}
+
+.rule-card:hover {
+    transform: translateY(-5px);
+    border-color: var(--accent-color);
+    box-shadow: 0 1rem 2.5rem rgba(0, 180, 216, 0.2);
+}
+
+.rule-icon {
+    width: 6rem;
+    height: 6rem;
+    background: linear-gradient(135deg, var(--accent-color), var(--mid-primary));
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto 1.5rem;
+    box-shadow: 0 0.5rem 1.5rem rgba(0, 180, 216, 0.3);
+}
+
+.rule-icon i {
+    color: var(--white);
+    font-size: 2.4rem;
+}
+
+.rule-card h3 {
+    color: var(--primary-color);
+    font-size: 1.8rem;
+    margin-bottom: 1rem;
+    font-weight: 700;
+}
+
+.rule-card p {
+    color: var(--primary-color);
+    font-size: 1.5rem;
+    line-height: 1.5;
+    opacity: 0.9;
+}
+
 /* DESKTOP - Large screens and up */
 @media (min-width: 992px) {
     .hamburger {
@@ -304,5 +389,45 @@ body {
     .cta-button {
         padding: 2rem 4rem;
         font-size: 2rem;
+    }
+
+    /* Desktop enhancement for rules */
+    .quiz-rules {
+        width: 90%;
+        max-width: 1000px;
+        padding: 5rem 3rem;
+        margin: 5rem auto;
+    }
+    
+    .quiz-rules h2 {
+        font-size: 3.5rem;
+        margin-bottom: 4rem;
+    }
+    
+    .rules-grid {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 3rem;
+        max-width: 900px;
+    }
+    
+    .rule-card {
+        padding: 3rem 2.5rem;
+    }
+    
+    .rule-card h3 {
+        font-size: 2rem;
+    }
+    
+    .rule-card p {
+        font-size: 1.6rem;
+    }
+    
+    .rule-icon {
+        width: 7rem;
+        height: 7rem;
+    }
+    
+    .rule-icon i {
+        font-size: 2.8rem;
     }
 }
