@@ -206,6 +206,7 @@ body {
     background: linear-gradient(135deg, var(--primary-color), var(--mid-primary));
     color: var(--white);
     margin-top: 8rem;
+    margin-bottom: 8rem; /* Add bottom margin */
     width: 90%;
     margin-left: auto;
     margin-right: auto;
@@ -253,7 +254,7 @@ body {
 /* Quiz Rules */
 .quiz-rules {
     background: var(--white);
-    margin: 4rem auto;
+    margin: 10rem auto 6rem; /* Increased top margin */
     width: 95%;
     padding: 4rem 2rem;
     border-radius: 2rem;
@@ -335,6 +336,148 @@ body {
     opacity: 0.9;
 }
 
+/* About Section */
+.about-section {
+    margin: 10rem auto 8rem; /* Increased top and bottom margins */
+    width: 95%;
+    max-width: 1000px;
+}
+
+.about-content {
+    text-align: center;
+}
+
+.about-content h2 {
+    color: var(--primary-color);
+    font-size: 2.8rem;
+    margin-bottom: 4rem;
+    font-weight: 700;
+    position: relative;
+}
+
+.about-content h2::after {
+    content: '';
+    position: absolute;
+    bottom: -1rem;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 8rem;
+    height: 0.3rem;
+    background: linear-gradient(90deg, var(--accent-color), var(--mid-primary));
+    border-radius: 0.2rem;
+}
+
+.about-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 3rem;
+}
+
+.about-card {
+    background: var(--white);
+    padding: 3rem 2.5rem;
+    border-radius: 2rem;
+    box-shadow: 0 0.8rem 2.5rem rgba(0, 0, 0, 0.08);
+    transition: all 0.3s ease;
+    border: 2px solid transparent;
+}
+
+.about-card:hover {
+    transform: translateY(-8px);
+    border-color: var(--accent-color);
+    box-shadow: 0 1.5rem 4rem rgba(0, 180, 216, 0.15);
+}
+
+.about-icon {
+    width: 7rem;
+    height: 7rem;
+    background: linear-gradient(135deg, var(--accent-color), var(--mid-primary));
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto 2rem;
+    box-shadow: 0 0.8rem 2rem rgba(0, 180, 216, 0.25);
+}
+
+.about-icon i {
+    color: var(--white);
+    font-size: 2.8rem;
+}
+
+.about-card h3 {
+    color: var(--primary-color);
+    font-size: 2rem;
+    margin-bottom: 1.5rem;
+    font-weight: 700;
+}
+
+.about-card p {
+    color: var(--primary-color);
+    font-size: 1.6rem;
+    line-height: 1.6;
+    opacity: 0.9;
+}
+
+/* Add subtle section dividers for visual separation */
+.about-section::before {
+    content: '';
+    display: block;
+    width: 6rem;
+    height: 0.2rem;
+    background: linear-gradient(90deg, transparent, var(--accent-color), transparent);
+    margin: 0 auto 2rem;
+    border-radius: 0.1rem;
+}
+
+.quiz-rules::before {
+    content: '';
+    display: block;
+    width: 6rem;
+    height: 0.2rem;
+    background: linear-gradient(90deg, transparent, var(--accent-color), transparent);
+    margin: 0 auto 2rem;
+    border-radius: 0.1rem;
+}
+
+/* Desktop enhancement for about section */
+@media (min-width: 992px) {
+    .about-section {
+        margin: 12rem auto 10rem; /* Even more space on desktop */
+    }
+    
+    .about-content h2 {
+        font-size: 3.5rem;
+        margin-bottom: 5rem;
+    }
+    
+    .about-grid {
+        grid-template-columns: repeat(3, 1fr);
+        gap: 4rem;
+    }
+    
+    .about-card {
+        padding: 4rem 3rem;
+    }
+    
+    .about-card h3 {
+        font-size: 2.2rem;
+    }
+    
+    .about-card p {
+        font-size: 1.7rem;
+    }
+    
+    .about-icon {
+        width: 8rem;
+        height: 8rem;
+    }
+    
+    .about-icon i {
+        font-size: 3.2rem;
+    }
+}
+
 /* DESKTOP - Large screens and up */
 @media (min-width: 992px) {
     .hamburger {
@@ -376,6 +519,7 @@ body {
         max-width: 900px;
         padding: 5rem 4rem;
         margin-top: 12rem;
+        margin-bottom: 10rem; /* More space on desktop */
     }
     
     #home h1 {
@@ -396,7 +540,7 @@ body {
         width: 90%;
         max-width: 1000px;
         padding: 5rem 3rem;
-        margin: 5rem auto;
+        margin: 12rem auto 8rem; /* More space on desktop */
     }
     
     .quiz-rules h2 {
@@ -429,5 +573,13 @@ body {
     
     .rule-icon i {
         font-size: 2.8rem;
+    }
+
+    /* Larger section dividers on desktop */
+    .about-section::before,
+    .quiz-rules::before {
+        width: 8rem;
+        height: 0.3rem;
+        margin-bottom: 3rem;
     }
 }
