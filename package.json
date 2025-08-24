@@ -1,5 +1,29 @@
 {
+  "name": "quiz-game",
+  "version": "1.0.0",
+  "description": "Test your knowledge by taking different quizes, you can choose different and choose categories and become better each time.",
+  "homepage": "https://github.com/brandonlea/quiz-game#readme",
+  "bugs": {
+    "url": "https://github.com/brandonlea/quiz-game/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brandonlea/quiz-game.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "jest"
+  },
   "devDependencies": {
     "jest": "^30.0.5"
+  },
+  "dependencies": {
+    "jest-environment-jsdom": "^30.0.5"
   }
 }
