@@ -725,7 +725,6 @@ body {
 
 .results-summary span {
     font-weight: 700;
-    color: var(--accent-color);
 }
 
 @media (min-width: 992px) {
