@@ -112,6 +112,18 @@ The font family I have choosen is [Lato](https://fonts.google.com/specimen/Lato 
 
 [Back to the Top](#contents)
 
+## Color Variables
+
+| Variable          | Color (HEX) | Notes                                                                  |
+| ----------------- | ----------- | ---------------------------------------------------------------------- |
+| --primary-color   | #03045E     | Dark navy for main text and structure                                  |
+| --secondary-color | #CAF0F8     | Light blue for accent text                                             |
+| --accent-color    | #00B4D8     | Bright blue for interactive elements                                   |
+| --mid-primary     | #0077B6     | Medium blue for gradients and secondary actions                        |
+| --soft-accent     | #90E0EF     | Light cyan for subtle backgrounds                                      |
+| --white           | #FFF        | White used for text on dark backgrounds, button text, card backgrounds |
+| --black           | #000        | Black used for text shadows and contrast elements                      |
+
 # Technologies Used
 
 Shows all Languages, Libraries and tools used within this project.
