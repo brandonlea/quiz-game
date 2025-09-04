@@ -25,6 +25,16 @@ Test your knowledge by taking different quizes, you can choose different and cho
   - [Tools](#tools)
 - [Testing](#testing)
   - [Responsiveness Testing](#responsiveness-tests)
+- [Code Validation](#code-validation)
+  - [HTML](#html)
+  - [CSS](#css)
+  - [JS](#js)
+  - [Lighthouse Testing](#lighthouse-testing)
+- [Deployment](#deployment)
+  - [To deploy project](#to-deploy-the-project)
+  - [To fork project](#to-fork-the-project)
+  - [To clone project](#to-clone-the-project)
+- [Finished Screenshots](#finished-screenshots)
 
 # Rationale
 
@@ -229,5 +239,76 @@ I have used Lighthouse to test Perfomance, Accessibility, Best Practices, SEO
 
 ![Desktop Lighthouse](docs/testing/lighthouse-desktop-1.png)
 ![Desktop Lighthouse](docs/testing/lighthouse-desktop-2.png)
+
+[Back to the Top](#contents)
+
+## Deployment
+
+### To deploy the project
+
+LFC App was deployed using Github pages if you want to do the same follow these simple steps.
+
+- Navigate to the repository on **GitHub** and click on **Settings**.
+- In the side navigation and select **Pages**.
+- In the None dropdown and choose **Main**.
+- Click on the **Save** button.
+- The website is now live!
+  [Back to the Top](#contents)
+
+## To fork the project
+
+Forking the GitHub repository allows you to create a duplicate of a local repository. This is done so that modifications to the copy can be performed without compromising the original repository.
+
+- Log in to **GitHub**.
+- Locate the **repository**.
+- Click to **open** it.
+- The fork **button** is located on the right side of the **repository menu**.
+- To copy the repository to your **GitHub account**, **click the button**.
+
+## To clone the project
+
+- Log in to **GitHub**.
+- Navigate to the **main page** of the repository and **click Code**.
+- Copy the **URL** for the repository.
+- Open your local **IDE**.
+- Change the current **working directory** to the location where you want the **cloned directory**.
+- Type **git clone**, and then paste the **URL you copied earlier**.
+- Press **Enter** to create your local clone.
+
+[Back to the Top](#contents)
+
+## Finished Screenshots
+
+### Home
+
+![Home Section](docs/screenshots/home.png)
+
+### About
+
+![Home Section](docs/screenshots/about.png)
+
+### Rules
+
+![Home Section](docs/screenshots/rules.png)
+
+### Categories
+
+![Home Section](docs/screenshots/categories.png)
+
+### How It Works
+
+![How It Works Section](docs/screenshots/how-it-works.png)
+
+### Quiz Setup
+
+![Quiz Setup](docs/screenshots/quiz.png)
+
+### Quiz Questions
+
+![Quiz Questions](docs/screenshots/quiz-questions.png)
+
+### Quiz Complete
+
+![Quiz Complete](docs/screenshots/quiz-complete.png)
 
 [Back to the Top](#contents)
