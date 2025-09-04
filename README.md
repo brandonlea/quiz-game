@@ -23,6 +23,8 @@ Test your knowledge by taking different quizes, you can choose different and cho
   - [Languages](#languages)
   - [Libraries](#libraries)
   - [Tools](#tools)
+- [Testing](#testing)
+  - [Responsiveness Testing](#responsiveness-tests)
 
 # Rationale
 
@@ -157,7 +159,7 @@ Shows all Languages, Libraries and tools used within this project.
 
 # Testing
 
-### Responsiveness Tests
+## Responsiveness Tests
 
 To test responsiveness I made sure to use mobile first approach and kept testing it using developer tools then after it was done I used [Responsive Design Checker](https://responsivedesignchecker.com/) to make sure it worked on multiple devices.
 
@@ -176,5 +178,56 @@ When I was developing the website I was using Google Chromes Mobile Simulator to
 | lg | 15 Inch Notebook | Good | Good | Good | Good | |
 | xl | 20 Inch Desktop | Good | Good | Good | Good | |
 | xl | 24 Inch Desktop | Good | Good | Good | Good | Make the contact form stand out more for bigger screens. |
+
+# Code Validation
+
+## HTML
+
+I have used [W3C HTML Validation](https://validator.w3.org/). I have tested my 2 HTML pages and came back with no errors just 1 warning.
+
+![HTML Validation](docs/testing/html-1.png)
+![HTML Validation](docs/testing/html-2.png)
+
+[Back to the Top](#contents)
+
+## CSS
+
+The CSS code was validated by using [W3C CSS Validation](https://jigsaw.w3.org/css-validator/). It returned back no errors.
+
+[Back to the Top](#contents)
+
+![CSS Validation](docs/testing/css.png)
+
+## JS Validation
+
+The JS code was validated by using [JSHint](https://jshint.com/). It returned back no errors just a warning for ES6.
+
+![JS Validation](docs/testing/js-1.png)
+![JS Validation](docs/testing/js-2.png)
+
+[Back to the Top](#contents)
+
+## Accessibility Testing
+
+I have used [WAVE](https://wave.webaim.org/) for accessibility I had 1 alert and 1 error.
+
+![WAVE](docs/testing/wave-1.png)
+![WAVE](docs/testing/wave-2.png)
+
+[Back to the Top](#contents)
+
+## Lighthouse Testing
+
+I have used Lighthouse to test Perfomance, Accessibility, Best Practices, SEO
+
+### Mobile
+
+![Mobile Lighthouse](docs/testing/lighthouse-mobile-1.png)
+![Mobile Lighthouse](docs/testing/lighthouse-mobile-2.png)
+
+### Desktop
+
+![Desktop Lighthouse](docs/testing/lighthouse-desktop-1.png)
+![Desktop Lighthouse](docs/testing/lighthouse-desktop-2.png)
 
 [Back to the Top](#contents)
