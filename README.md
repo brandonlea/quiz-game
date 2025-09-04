@@ -154,4 +154,26 @@ Shows all Languages, Libraries and tools used within this project.
 - [W3C HTML Validation Service](https://validator.w3.org/)
 - [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/)
 
+# Testing
+
+### Responsiveness Tests
+
+To test responsiveness I made sure to use mobile first approach and kept testing it using developer tools then after it was done I used [Responsive Design Checker](https://responsivedesignchecker.com/) to make sure it worked on multiple devices.
+
+[Back to the Top](#contents)
+
+When I was developing the website I was using Google Chromes Mobile Simulator to make sure it was working correctly and I have made it responsive by aligning each section and allowing the text and images to shirk to able to see and fit correctly.
+| Size | Device Example | Navigation | Element Alignments | Content Placement | Functionality | Notes |
+| ---- | ----------------------- | ---------- | ------------------ | ----------------- | ------------- | -------------------------------------------------------- |
+| sm | Apple Iphone 3/4/4's | Good | Good | Good | Good | |
+| sm | Samsung Galaxy S5/S6/S7 | Good | Good | Good | Good | |
+| sm | Google Pixel | Good | Good | Good | Good | |
+| md | Ipad Mini | Good | Good | Good | Good | |
+| md | Samsung Galaxy Tab 10 | Good | Good | Good | Good | |
+| md | Amazon Kindle | Good | Good | Good | Good | |
+| lg | 10 Inch Notebook | Good | Good | Good | Good | |
+| lg | 15 Inch Notebook | Good | Good | Good | Good | |
+| xl | 20 Inch Desktop | Good | Good | Good | Good | |
+| xl | 24 Inch Desktop | Good | Good | Good | Good | Make the contact form stand out more for bigger screens. |
+
 [Back to the Top](#contents)
