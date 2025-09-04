@@ -153,6 +153,7 @@ Shows all Languages, Libraries and tools used within this project.
 - [LightHouse](https://developer.chrome.com/docs/lighthouse/overview)
 - [W3C HTML Validation Service](https://validator.w3.org/)
 - [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/)
+- [JSHINT](https://jshint.com/)
 
 # Testing
 
