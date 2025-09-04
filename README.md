@@ -4,6 +4,8 @@
 
 Test your knowledge by taking different quizes, you can choose different and choose categories and become better each time.
 
+![Website](docs/device/devices.png)
+
 ## Contents
 
 - [Rationale](#rationale)
